@@ -11,8 +11,8 @@ Saya Azzahra Fahriza Fitriani NIM 2102296 mengerjakan soal Latihan Praktikum 1 d
   
 ## Alur 
 Program menampilkan pilihan menu yang diapat diakses oleh user
-- 1. tambah data (tambah()) 
-- 2. ubah data (ubah())
-- 3. hapus data (hapus())
-- 4. lihat data (tampil())
-- 5. keluar
+1. tambah data (tambah()) 
+2. ubah data (ubah())
+3. hapus data (hapus())
+4. lihat data (tampil())
+5. keluar
